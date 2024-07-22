@@ -1,4 +1,4 @@
-# Project Title: Fast Food app Monitoring & Alerting Project
+# Project Title: Fast Food app Monitoring & Alerting
 
 ## Overview
 This project demonstrates the setup of a monitoring system using Docker Compose, Prometheus, Node Exporter, and Grafana. The application was originally developed by Jaji Moshood. I extended their work by dockerizing the application and adding monitoring capabilities.
